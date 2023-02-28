@@ -1,4 +1,4 @@
-# oprec-ristek-be
+# oprec-ristek-fe
 Oprec Ristek WebDev 2023
 
 # Requirements
