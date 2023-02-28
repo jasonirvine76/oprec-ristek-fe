@@ -1,0 +1,79 @@
+
+.wrapperContainer {
+    width: 100%;
+    height: 1000px;
+    background-color: #01162D;
+}
+
+.homeContainer {
+    display:flex;
+    
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+
+.row {
+    height: 100%;
+    background-color: #01162D;
+}
+
+.customCard {
+    box-shadow: 0 4px 8px 0 rgba(134, 130, 130, 0.2), 0 6px 20px 0 rgba(156, 150, 150, 0.19);
+    background-color: #14233E !important;
+}
+
+.card-title {
+    display:flex;
+    position: sticky;
+    top: 0;
+}
+
+.feed-date {
+    color: #FFFFFF;
+    margin-left: 7px;
+}
+
+#font-date {
+    font-size: 12px;
+}
+
+.delete-icon{
+    flex:5;
+
+}
+
+.feedContainer {
+    background-color: #01162D;
+}
+
+.bio-text {
+    color: #FFFFFF;
+}
+
+.username-text {
+    margin-left: 10px;
+    color:#88BFE8;
+}
+
+#del-icon {
+    float:right;
+}
+
+.feed-username {
+    color: #FFFFFF;
+    margin-left:10px;
+}
+
+.feed-msg {
+    color: #FFFFFF;
+}
+
+.name-button {
+    display:flex;
+}
+
+#editProfileButton {
+    margin-left: 20px;
+    float:right;
+}
